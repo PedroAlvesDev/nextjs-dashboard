@@ -129,6 +129,87 @@ const invoices = [
   },
 ];
 
+// const invoices = [
+//   {
+//     customer_id: customers[0].id,
+//     amount: 15795,
+//     status: 'pending',
+//     date: '2025-07-06',
+//   },
+//   {
+//     customer_id: customers[1].id,
+//     amount: 20348,
+//     status: 'pending',
+//     date: '2025-06-14',
+//   },
+//   {
+//     customer_id: customers[4].id,
+//     amount: 3040,
+//     status: 'paid',
+//     date: '2025-05-29',
+//   },
+//   {
+//     customer_id: customers[3].id,
+//     amount: 44800,
+//     status: 'paid',
+//     date: '2024-09-10',
+//   },
+//   {
+//     customer_id: customers[5].id,
+//     amount: 34577,
+//     status: 'pending',
+//     date: '2024-08-05',
+//   },
+//   {
+//     customer_id: customers[2].id,
+//     amount: 54246,
+//     status: 'pending',
+//     date: '2024-07-16',
+//   },
+//   {
+//     customer_id: customers[0].id,
+//     amount: 666,
+//     status: 'pending',
+//     date: '2024-06-27',
+//   },
+//   {
+//     customer_id: customers[3].id,
+//     amount: 32545,
+//     status: 'paid',
+//     date: '2024-06-09',
+//   },
+//   {
+//     customer_id: customers[4].id,
+//     amount: 1250,
+//     status: 'paid',
+//     date: '2024-06-17',
+//   },
+//   {
+//     customer_id: customers[5].id,
+//     amount: 8546,
+//     status: 'paid',
+//     date: '2024-06-07',
+//   },
+//   {
+//     customer_id: customers[1].id,
+//     amount: 500,
+//     status: 'paid',
+//     date: '2024-08-19',
+//   },
+//   {
+//     customer_id: customers[5].id,
+//     amount: 8945,
+//     status: 'paid',
+//     date: '2024-06-03',
+//   },
+//   {
+//     customer_id: customers[2].id,
+//     amount: 1000,
+//     status: 'paid',
+//     date: '2024-06-05',
+//   },
+// ];
+
 const revenue = [
   { month: 'Jan', revenue: 2000 },
   { month: 'Feb', revenue: 1800 },
